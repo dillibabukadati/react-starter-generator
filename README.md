@@ -1,1 +1,1 @@
-# nodejs-backend-starter-generator
+# react-starter-generator
