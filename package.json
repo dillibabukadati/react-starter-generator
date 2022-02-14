@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "react-generator",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "bin": {
+    "react-generator": "./index.js"
+  }
+}
